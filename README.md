@@ -1,5 +1,6 @@
-## Hi All
-
+<p align= "center">
+<img src="https://github.com/aswingt65/aswingt65/blob/main/profile.gif">
+</p>
 
 [![@aswingt65's Holopin board](https://holopin.me/aswingt65)](https://holopin.io/@aswingt65)
 
