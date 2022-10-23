@@ -9,10 +9,36 @@
 
 ## My Blogs
 <a href="https://medium.com/@aswingt65/bitcoin-a-peer-to-peer-virtual-currency-c72f3158f79c">BITCOIN : A PEER-TO-PEER VIRTUAL CURRENCY</a>
-## 📈GitHub Analytics <p align="right"> <img src="https://komarev.com/ghpvc/?username=aswingt65&label=Views&color=blue&style=plastic"/> </p>
+## 📈GitHub Analytics 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aswingt65&label=Views&color=blue&style=plastic"/></p>
+
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=aswingt65&theme=react&border=61dafb&hide_border=true" alt="aswingt65" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=aswingt65&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswingt65&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=aswingt65&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+
+
+
+<!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aswingt65&count_private=true&theme=dark&showicons=true)]() 
 
 <div > 
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aswingt65&theme=dark&hide_border=true" />
 </div>
+-->
