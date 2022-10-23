@@ -5,13 +5,13 @@
 [![@aswingt65's Holopin board](https://holopin.me/aswingt65)](https://holopin.io/@aswingt65)
 
 ## Connect with Me
-<a href="https://www.linkedin.com/in/aswin-george-thomas-80a177214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@aswingt65"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"><a/>&nbsp;&nbsp;&nbsp;&nbsp;<a href= "mailto:aswingt65@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>  
+<a href="https://www.linkedin.com/in/aswin-george-thomas-80a177214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@aswingt65"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"><a/>&nbsp;&nbsp;&nbsp;&nbsp;<a href= "mailto:aswingt65@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>&nbsp;&nbsp;&nbsp;&nbsp;<a href= "https://www.instagram.com/aswin_thomas_369"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a/>  
 
 ## My Blogs
 <a href="https://medium.com/@aswingt65/bitcoin-a-peer-to-peer-virtual-currency-c72f3158f79c">BITCOIN : A PEER-TO-PEER VIRTUAL CURRENCY</a>
 ## 📈GitHub Analytics 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aswingt65&label=Views&color=blue&style=plastic"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aswingt65&label=Profile_Views&color=blue&style=plastic"/></p>
 
 <p align=center>
   <div align=center>
@@ -32,6 +32,9 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=aswingt65&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+## 🏆 GitHub Trophies
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=aswingt65&theme=nord&column=7)](https://github.com/aswingt65/github-profile-trophy)
 
 
 
