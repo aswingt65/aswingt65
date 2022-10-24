@@ -37,7 +37,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=aswingt65&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophy
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=aswingt65&theme=nord&column=7)](https://github.com/aswingt65/github-profile-trophy)
 
