@@ -44,7 +44,7 @@
 
 
 <!--
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aswingt65&count_private=true&theme=dark&showicons=true)]() 
+[![Aswin George Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aswingt65&count_private=true&theme=dark&showicons=true)]() 
 
 <div > 
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aswingt65&theme=dark&hide_border=true" />
