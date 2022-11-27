@@ -2,7 +2,29 @@
 <img src="https://github.com/aswingt65/aswingt65/blob/main/profile.gif">
 </p>
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class Web Developer:
+
+    def __init__(self):
+        self.name = "Aswin George Thomas"
+        self.role = "Web Developer"
+        self.interests="Designing websites, Android App development, Machine learning"
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = WebDeveloper()
+me.say_hi()
+```
+
 [![@aswingt65's Holopin board](https://holopin.me/aswingt65)](https://holopin.io/@aswingt65)
+
+<p align="center"><img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600"></p>
 
 ## Connect with Me
 <a href="https://www.linkedin.com/in/aswingt65/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@aswingt65"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"><a/>&nbsp;&nbsp;&nbsp;&nbsp;<a href= "mailto:aswingt65@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>&nbsp;&nbsp;&nbsp;&nbsp;<a href= "https://www.instagram.com/aswin_thomas_369"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a/>  
@@ -17,18 +39,12 @@
 ## 📈GitHub Analytics 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswingt65&label=Profile_Views&color=blue&style=plastic"/></p>
+  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aswingt65&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 
 <p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=aswingt65&theme=react&border=61dafb&hide_border=true" alt="aswingt65" />
-    </a>
-    
-  </div>
-  <br><br><br><br><br><br><br><br>
-  
-  </div>
-  <br>
+<br><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=aswingt65&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
