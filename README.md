@@ -41,7 +41,7 @@ me.say_hi()
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswingt65&label=Profile_Views&color=blue&style=plastic"/></p>
   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aswingt65&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=aswingt65&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 <p align=center>
 <br><br>
