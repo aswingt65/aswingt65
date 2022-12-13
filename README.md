@@ -43,10 +43,6 @@ me.say_hi()
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aswingt65&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D"></p>
 
-<p align=center>
-<br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=aswingt65&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
 
 ## 🏆 GitHub Trophy
   
@@ -54,10 +50,9 @@ me.say_hi()
 
 
 
-<!--
-[![Aswin George Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aswingt65&count_private=true&theme=dark&showicons=true)]() 
+
+<!-- [![Aswin George Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aswingt65&count_private=true&theme=dark&showicons=true)]() 
 
 <div > 
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aswingt65&theme=dark&hide_border=true" />
-</div>
--->
+</div> -->
