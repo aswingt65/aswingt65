@@ -40,19 +40,10 @@ me.say_hi()
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswingt65&label=Profile_Views&color=blue&style=plastic"/></p>
   
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aswingt65&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D"></p>
+![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswingt65&env=PAT_1&show_icons=true&theme=dark&border=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswingt65&env=PAT_1&layout=compact&theme=dark)](https://github.com/aswingt65/github-readme-stats)
 
 ## 🏆 GitHub Trophy
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=aswingt65&theme=nord&column=7)](https://github.com/aswingt65/github-profile-trophy)
-
-
-
-
-<!-- [![Aswin George Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aswingt65&count_private=true&theme=dark&showicons=true)]() 
-
-<div > 
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aswingt65&theme=dark&hide_border=true" />
-</div> -->
