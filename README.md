@@ -22,7 +22,7 @@ me = WebDeveloper()
 me.say_hi()
 ```
 
-[![@aswingt65's Holopin board](https://holopin.me/aswingt65)](https://holopin.io/@aswingt65)
+[![An image of @aswingt65's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aswingt65)](https://holopin.io/@aswingt65)
 
 <p align="center"><img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600"></p>
 
