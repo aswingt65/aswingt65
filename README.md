@@ -11,7 +11,7 @@
 # -*- coding: utf-8 -*-
 
 
-class Web Developer:
+class WebDeveloper:
 
     def __init__(self):
         self.name = "Aswin George Thomas"
