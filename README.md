@@ -24,11 +24,11 @@ class WebDeveloper:
 me = WebDeveloper()
 me.say_hi()
 ```
-
+<!--
 [![An image of @aswingt65's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aswingt65)](https://holopin.io/@aswingt65)
 
 <p align="center"><img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600"></p>
-
+-->
 ## Connect with Me
 <a href="https://aswingt65.github.io/Personal-Website/index.html"><img src="https://img.shields.io/badge/⚡-Check%20my%20Portfolio-orange"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aswingt65/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@aswingt65"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"><a/>&nbsp;&nbsp;&nbsp;&nbsp;<a href= "mailto:aswingt65@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>&nbsp;&nbsp;&nbsp;&nbsp;<a href= "https://www.instagram.com/aswin_thomas_369"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a/>  
 <!--
