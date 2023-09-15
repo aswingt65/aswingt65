@@ -43,8 +43,10 @@ me.say_hi()
 ## 📈GitHub Analytics 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswingt65&label=Profile_Views&color=blue&style=plastic"/></p>
-  
-![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswingt65&env=PAT_1&show_icons=true&theme=dark&border=true)
+
+![Aswin](https://github-readme-streak-stats.herokuapp.com/?user=aswingt65&theme=dark)
+
+![Aswin GitHub stats](https://github-readme-stats.vercel.app/api?username=aswingt65&show_icons=true&theme=dark&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswingt65&env=PAT_1&layout=compact&theme=dark)](https://github.com/aswingt65/github-readme-stats)
 
