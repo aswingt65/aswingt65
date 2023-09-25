@@ -44,15 +44,34 @@ me.say_hi()
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswingt65&label=Profile_Views&color=blue&style=plastic"/></p>
 
-![Aswin](https://github-readme-streak-stats.herokuapp.com/?user=aswingt65&theme=dark)
+<p align="center">
+ 
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=aswingt65&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aswingt65&theme=dark&hide_border=false" /> 
+</td>
 
-![Aswin GitHub stats](https://github-readme-stats.vercel.app/api?username=aswingt65&show_icons=true&theme=dark&include_all_commits=true)
+<td width="50%" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswingt65&env=PAT_1&layout=compact&theme=dark)](https://github.com/aswingt65/github-readme-stats)
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aswingt65&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+</p>
 
 ## 🏆 GitHub Trophy
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=aswingt65&theme=nord&column=7)](https://github.com/aswingt65/github-profile-trophy)
+
+  <!--- trophy (start) -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswingt65&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="aswingt65" /></a> </p>
+<!--- trophy (end) -->
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 </p>
