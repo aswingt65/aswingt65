@@ -69,7 +69,7 @@ me.say_hi()
 ## 🏆 GitHub Trophy
 
   <!--- trophy (start) -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswingt65&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="aswingt65" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswingt65&layout=compact&column=7&row=1&margin-w=15&margin-h=15" alt="aswingt65" /></a> </p>
 <!--- trophy (end) -->
 
 <p  align="center">
